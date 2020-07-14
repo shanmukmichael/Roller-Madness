@@ -4,25 +4,12 @@
 
 
 
-  
-<p align="center" >
-  <a href="https://shanmukmichael.github.io/Solar-System-Simulation-3D/"> P L A Y </a>  
-  <br><br>
-</p>
-
 
 
 <p align="center">
   <img widht ="200" height="200" src="https://user-images.githubusercontent.com/55943851/85518734-2dafee00-b61e-11ea-9236-a3f9bdf90d13.png">
 </p>
 
-
-
-## GIF 	:film_projector:
-
-<p align='center'>
-<img widht ="800" height="500"src="https://user-images.githubusercontent.com/55943851/84565695-82cf4280-ad88-11ea-9d0b-e6a23f2ddf9f.gif">
-</p>
 
 
 
